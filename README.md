@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning fullstack web development<br>🎯 Goals: To become the second coming of Roy Clay Sr.<br>🎲 Fun fact: Outside of programming, I love riding my motorcyle</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning fullstack web development<br><br>🎲 Fun fact: Outside of programming, I love riding my motorcyle</p>
 
 ###
 
@@ -48,8 +48,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jashawncodes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/jashawncodes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
