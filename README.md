@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning fullstack web development<br><br>🎲 Fun fact: Outside of programming, I love riding my motorcyle</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning fullstack web development with an emphasis no backend development.<br><br>🎲 Fun fact: Outside of programming, I love riding my motorcyle</p>
 
 ###
 
