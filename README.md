@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">Self-taught backend engineer with an accounting operations background, building production-style Java & Spring Boot applications that solve real business problems.</p>
+<p align="left">A self-taught backend engineer with an accounting operations background, building production-style Java & Spring Boot applications that solve real business problems.</p>
 
 ###
 
-<h2 align="left">Currently building: A multi-tenant invoice SaaS named Invoquill</h2>
+<h2 align="left">Currently building</h2>
+<p align="left">A multi-tenant invoice SaaS named Invoquill</p>
 
 ###
 
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Current Goal:</h2>
+<h2 align="left">Current Goal</h2>
 <p align="left">Become a backend software engineer building software that provides solutions to real operational problems</p>
 
 ###
@@ -43,12 +44,12 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12">
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12">
 </div>
 
 ###
