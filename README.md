@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jashawn 👋
 
 <!--
 **JashawnRogers/JashawnRogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">My name is Jashawn and I'm a Software Engineer, from Phoenix Arizona.</p>
+<p align="left">Self-taught backend engineer with an accounting operations background, building production-style Java & Spring Boot applications that solve real business problems.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Currently building: A multi-tenant invoice SaaS named Invoquill</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning fullstack web development with an emphasis no backend development.<br><br>🎲 Fun fact: Outside of programming, I love riding my motorcyle</p>
+<h2 align="left">Interests</h2>
+<ul>
+  <li>Backend Architecture</li>
+  <li>FinTech</li>
+  <li>Internal Business Tools</li>
+</ul>
+
+###
+
+<h2 align="left">Current Goal:</h2>
+<p align="left">Become a backend software engineer building software that provides solutions to real operational problems</p>
 
 ###
 
